@@ -1,2 +1,0 @@
-# feiwujiushiwo.github.io
-blog
