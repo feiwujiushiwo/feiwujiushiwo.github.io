@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://feiwujiushiwo.github.io/public"
+baseURL = "https://feiwujiushiwo.github.io"
 theme = ["gohugo-theme-ananke"]
 resourceDir = "../resources"
 
